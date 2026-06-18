@@ -12,4 +12,3 @@ Tutoring organizations need an effective way to manage student records, parent/g
 ## Database Design
 <img width="589" height="559" alt="image" src="https://github.com/user-attachments/assets/61393977-0a95-4b2c-884f-b4315d0e4a55" />
 <img width="872" height="450" alt="image" src="https://github.com/user-attachments/assets/7301a5b8-48cd-4093-a937-b243bb76b58f" />
-
